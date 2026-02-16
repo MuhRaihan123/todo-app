@@ -209,7 +209,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Muhammad Raihan**
 - GitHub: [@MuhRaihan123](https://github.com/MuhRaihan123)
-- Email: kitaraihan123@gmail.com
+- Email: muhraihaan1@gmail.com
 
 ## 🙏 Acknowledgments
 
